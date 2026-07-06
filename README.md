@@ -1,4 +1,4 @@
-# Itadaki Street: Dragon Quest & Final Fantasy 30th Anniversary — English Translation (v1.1)
+# Itadaki Street: Dragon Quest & Final Fantasy 30th Anniversary — English Translation (v1.2)
 
 A fan English translation of いただきストリート ドラゴンクエスト＆ファイナルファンタジー 30th ANNIVERSARY (PS Vita, title ID PCSG00932).
 
